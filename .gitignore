@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+# Ignorar directorio de compilación
+/target/
+
+# macOS
+.DS_Store
+
 # Log file
 *.log
 
